@@ -1,0 +1,55 @@
+body {
+    padding: 30px;
+}
+h1 {
+    background-color: darkgreen;
+    width: 600px;
+    color: white;
+    text-align: center;
+    padding: 5px 0;
+}
+table {
+    border-collapse: collapse;
+    table-layout: auto;
+    width: 600px;
+    text-align: center;
+}
+table th {
+    background-color: black;
+    color: white;
+    border: solid 1px black;
+    height: 30px;
+}
+ table td {
+    border: solid 1px black;
+    height: 50px;
+}
+.upload {
+    border-radius: 5px;
+    background-color: darkgray;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.flashmsg {
+    background-color: lightblue;
+    width: 600px;
+    padding: 10px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+.download {
+    border-radius: 5px;
+    background-color: blue;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+}
+.delete {
+    border-radius: 5px;
+    background-color: red;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+}
